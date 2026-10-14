@@ -1,0 +1,7 @@
+{
+  "name": "AI Regression Testing Studio",
+  "description": "Comprehensive AI and software regression testing platform with semantic drift detection, automated test generation, and diff analysis powered by Gemini.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
